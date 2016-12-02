@@ -264,6 +264,7 @@
 			<DataProcessor>СравнениеМетаданных</DataProcessor>
 			<DataProcessor>СтартовыйПомощник</DataProcessor>
 			<DataProcessor>УниверсальныйПоискОбъектов</DataProcessor>
+			<DataProcessor>ГрафическиеСхемы</DataProcessor>
 			<InformationRegister>СохраненныеНастройки</InformationRegister>
 			<InformationRegister>ФайлыПользователей</InformationRegister>
 		</ChildObjects>
